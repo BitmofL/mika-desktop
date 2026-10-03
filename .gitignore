@@ -1,0 +1,22 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# --- Модель распознавания речи Vosk (скачивается отдельно, ~87 МБ) ---
+vosk-model-*/
+
+# --- Реальные настройки и токены (в репозиторий идёт только *.example.*) ---
+settings.json
+commands/token_store.json
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+*.user
+Thumbs.db
+desktop.ini
+.DS_Store

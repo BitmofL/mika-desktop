@@ -1,0 +1,6 @@
+PyQt6
+vosk
+pyaudio
+numpy
+pygame
+requests
