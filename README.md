@@ -65,9 +65,15 @@ docs/                 # документация проекта (диплом, �
    ```
 
 ## Интерфейс
-![Ассистент Mika](images/Mika_open.png)
+![Mika (обычная Мика) — открыто](images/Mika_open.png)
 
-![Мобильная версия](fotos/Mobile.png)
+![Mika (обычная Мика) — закрыто](images/Mika_close.png)
+
+![Мобильная версия Mika](fotos/Mobile.png)
+
+![Кошачья фишка (разработка)](fotos/kojima_lamb.png)
+
+![Вспомогательные изображения погоды](images/cloudy.png)
 
 ## Документация
 Папка `docs/` содержит материалы ВКР: `Диплом…docx`, `Речь_дипломная…docx`,
